@@ -30,3 +30,6 @@ Compile and run the Client class to start one or more clients.
 Clients can send messages to the server, which relays them to other connected clients.
 Clients can also receive messages from the server and other connected clients.
 Users can type 'exit' to quit the chat and close the connections.
+
+![GitHub Image](image.png)
+
