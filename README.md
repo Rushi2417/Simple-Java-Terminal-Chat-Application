@@ -24,7 +24,7 @@ Once connected, clients and the server can exchange messages in real-time.
 Bidirectional communication allows both the server and clients to send and receive messages.
 
 
-# 4.Usage:
+# Usage:
 Compile and run the Server class to start the server.
 Compile and run the Client class to start one or more clients.
 Clients can send messages to the server, which relays them to other connected clients.
